@@ -24,9 +24,20 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/jquery.classycountdown.css",
+              "src/assets/css/jquery.classycountdown.min.css",
+              "src/assets/css/responsive.css",
               "src/styles.css"
             ],
             "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/js/custom.js",
+              "src/assets/js/jquery.classycountdown.js",
+              "src/assets/js/jquery.knob.js",
+              "src/assets/js/jquery.classycountdown.min.js",
+              "src/assets/js/jquery.throttle.js"
             ]
           },
           "configurations": {
