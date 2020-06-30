@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-declare const MyTest: any;
+declare const myTest: any;
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'testapp';
 
   onClick(){
-    MyTest();
+    myTest();
   }
 }

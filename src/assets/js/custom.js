@@ -3,5 +3,6 @@ function myTest() {
 }
 
 // $(function() {
-//     alert('Hello, custom js');
+//   console.log("Hello!");
+//     // alert('Hello, custom js');
 // })
